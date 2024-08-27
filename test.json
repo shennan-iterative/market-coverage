@@ -1,0 +1,830 @@
+[
+    {
+        "foundedYear": 2023,
+        "id": "yU_vcmrgqqKlFErNeMs06-EE-Pv1TrQb0o-ApceZLNY",
+        "name": "StealthMole",
+        "domain": "stealthmole.com",
+        "location": {
+            "continent": "Asia",
+            "country": "Singapore",
+            "tracxnId": "dex03oaPqnJgCWOxjs_9vZa5TNDlZHwisEX6hWUG68I",
+            "countryGroup": [
+                "Southeast Asia",
+                "Asia",
+                "APAC"
+            ],
+            "city": "Singapore",
+            "state": "Singapore",
+            "id": "dex03oaPqnJgCWOxjs_9vZa5TNDlZHwisEX6hWUG68I"
+        },
+        "tracxnUrl": "https://platform.tracxn.com/companies/yU_vcmrgqqKlFErNeMs06-EE-Pv1TrQb0o-ApceZLNY/stealthmole.com",
+        "totalMoneyRaised": {
+            "totalAmount": {
+                "amount": 7000000,
+                "currency": "USD"
+            }
+        },
+        "businessModelList": [
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DCybersecurity%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DCybersecurity%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "rgJDhL5-vaoMdE9DoeiyMyeK6u8q2_iTE6YB_xDYlBg",
+                "feedName": "Cybersecurity",
+                "fullPathList": [
+                    {
+                        "tracxnId": "rgJDhL5-vaoMdE9DoeiyMyeK6u8q2_iTE6YB_xDYlBg",
+                        "name": "Cybersecurity",
+                        "id": "rgJDhL5-vaoMdE9DoeiyMyeK6u8q2_iTE6YB_xDYlBg",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "A1 - Deep Curation",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "rgJDhL5-vaoMdE9DoeiyMyeK6u8q2_iTE6YB_xDYlBg"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "WWcdcrOlbRi-2GA3FW1Oy-VGyILhngnI-ev6OFVTYTE",
+                "feedName": "SaaS",
+                "fullPathList": [
+                    {
+                        "tracxnId": "WWcdcrOlbRi-2GA3FW1Oy-VGyILhngnI-ev6OFVTYTE",
+                        "name": "SaaS",
+                        "id": "WWcdcrOlbRi-2GA3FW1Oy-VGyILhngnI-ev6OFVTYTE",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "SaaS>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D2 - Auto Feeds - Sector",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "WWcdcrOlbRi-2GA3FW1Oy-VGyILhngnI-ev6OFVTYTE"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Tech%20-%20SEA%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Tech%20-%20SEA%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "qYzSaK55VVCIoVDkTiDoe7ifYB2jprbW4ero3LgaaY4",
+                "feedName": "Enterprise Tech - SEA",
+                "fullPathList": [
+                    {
+                        "tracxnId": "qYzSaK55VVCIoVDkTiDoe7ifYB2jprbW4ero3LgaaY4",
+                        "name": "Enterprise Tech - SEA",
+                        "id": "qYzSaK55VVCIoVDkTiDoe7ifYB2jprbW4ero3LgaaY4",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "Enterprise Tech - SEA>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D1 - Auto Feeds - Geo",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "qYzSaK55VVCIoVDkTiDoe7ifYB2jprbW4ero3LgaaY4"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%20-%20SEA%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%20-%20SEA%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "TC1vVoZqu3D0NgBzwcSK6lJ8d8c_MWgdpb4_fy1ello",
+                "feedName": "SaaS - SEA",
+                "fullPathList": [
+                    {
+                        "tracxnId": "TC1vVoZqu3D0NgBzwcSK6lJ8d8c_MWgdpb4_fy1ello",
+                        "name": "SaaS - SEA",
+                        "id": "TC1vVoZqu3D0NgBzwcSK6lJ8d8c_MWgdpb4_fy1ello",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "SaaS - SEA>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D1 - Auto Feeds - Geo",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "TC1vVoZqu3D0NgBzwcSK6lJ8d8c_MWgdpb4_fy1ello"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DDark%20Web%20Monitoring%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DDark%20Web%20Monitoring%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "Zk1wstbt4x8T-3KGI20ivupN0xcQRmjDXc__f6PEYKs",
+                "feedName": "Dark Web Monitoring",
+                "fullPathList": [
+                    {
+                        "tracxnId": "Zk1wstbt4x8T-3KGI20ivupN0xcQRmjDXc__f6PEYKs",
+                        "name": "Dark Web Monitoring",
+                        "id": "Zk1wstbt4x8T-3KGI20ivupN0xcQRmjDXc__f6PEYKs",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "Dark Web Monitoring>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D3 - Auto Feeds - Trending Themes",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "Zk1wstbt4x8T-3KGI20ivupN0xcQRmjDXc__f6PEYKs"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Software%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Software%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "8DVaq2goAk-gacbVq1DxfqQQ9l2LlAoQhZTuVYdpCbA",
+                "feedName": "Enterprise Software",
+                "fullPathList": [
+                    {
+                        "tracxnId": "8DVaq2goAk-gacbVq1DxfqQQ9l2LlAoQhZTuVYdpCbA",
+                        "name": "Enterprise Software",
+                        "id": "8DVaq2goAk-gacbVq1DxfqQQ9l2LlAoQhZTuVYdpCbA",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "Enterprise Software>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D2 - Auto Feeds - Sector",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "8DVaq2goAk-gacbVq1DxfqQQ9l2LlAoQhZTuVYdpCbA"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Tech%20-%20Singapore%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DEnterprise%20Tech%20-%20Singapore%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "A2ThpzndBxCvx5OVp_-7aSbm5iLCouOhrcYgOcLYr_I",
+                "feedName": "Enterprise Tech - Singapore",
+                "fullPathList": [
+                    {
+                        "tracxnId": "A2ThpzndBxCvx5OVp_-7aSbm5iLCouOhrcYgOcLYr_I",
+                        "name": "Enterprise Tech - Singapore",
+                        "id": "A2ThpzndBxCvx5OVp_-7aSbm5iLCouOhrcYgOcLYr_I",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "Enterprise Tech - Singapore>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D1 - Auto Feeds - Geo",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "A2ThpzndBxCvx5OVp_-7aSbm5iLCouOhrcYgOcLYr_I"
+            },
+            {
+                "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "name": "Dark Net Monitoring",
+                "companiesInEntireTreeUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%20-%20Singapore%7CbusinessModel%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "companiesInNodeOnlyUrl": "https://platform.tracxn.com/query/feedview#%7CfeedName%3DSaaS%20-%20Singapore%7CbusinessModelId%3D55e830d9e4b00337fcf9357f%3ADark%20Net%20Monitoring",
+                "feedId": "r1yTEJivoS-YZKdtrUutGvXCP0G7LUSbVcq0VQiBRM8",
+                "feedName": "SaaS - Singapore",
+                "fullPathList": [
+                    {
+                        "tracxnId": "r1yTEJivoS-YZKdtrUutGvXCP0G7LUSbVcq0VQiBRM8",
+                        "name": "SaaS - Singapore",
+                        "id": "r1yTEJivoS-YZKdtrUutGvXCP0G7LUSbVcq0VQiBRM8",
+                        "type": "FEED"
+                    },
+                    {
+                        "description": "Products and cloud-based service which detect, prevent, protect and respond to the cyber threat and attack on business or government organization.",
+                        "id": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k",
+                        "name": "Cybersecurity",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "kK63woAfuECf66HvwFBUDiDjomVgL60pCUFgBYMeJ2k"
+                    },
+                    {
+                        "description": "Actionable, processed, aggregated, relevant & evidence-based knowledge of existing & new threats & vulnerabilities",
+                        "id": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU",
+                        "name": "Threat Intelligence",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                    },
+                    {
+                        "description": "Platform & service which monitors entire web including dark web for detecting cyber threat and data breach",
+                        "id": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                        "name": "Dark Net Monitoring",
+                        "type": "BUSINESS MODEL",
+                        "isVisible": true,
+                        "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                    }
+                ],
+                "fullPathString": "SaaS - Singapore>Cybersecurity>Threat Intelligence>Dark Net Monitoring",
+                "companyPublishedStatus": "PUBLISHED",
+                "feedPublishedStatus": "PUBLISHED",
+                "feedCurationType": "D1 - Auto Feeds - Geo",
+                "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os",
+                "feedTracxnId": "r1yTEJivoS-YZKdtrUutGvXCP0G7LUSbVcq0VQiBRM8"
+            }
+        ],
+        "practiceAreaList": [
+            {
+                "id": "hOcVKpuztUIbPJQlF7j0fGQzi8XZMDUQUTMy6omC9vE",
+                "name": "Enterprise Infrastructure",
+                "tracxnId": "hOcVKpuztUIbPJQlF7j0fGQzi8XZMDUQUTMy6omC9vE"
+            },
+            {
+                "id": "QOdnoozQ7g9gsJ_Z6biYkavpAYHdRiGR-T_Rxv-7kYQ",
+                "name": "Enterprise Applications",
+                "tracxnId": "QOdnoozQ7g9gsJ_Z6biYkavpAYHdRiGR-T_Rxv-7kYQ"
+            },
+            {
+                "id": "-oStzTgR5IWl_VwhM_kJjpiB5X2WqUPxgB7ZeiA3aP0",
+                "name": "SEA Tech",
+                "tracxnId": "-oStzTgR5IWl_VwhM_kJjpiB5X2WqUPxgB7ZeiA3aP0"
+            },
+            {
+                "id": "59wlsc9V44rskTfK_gnzjZgZnxZwzfvJwwcO7F4_MT8",
+                "name": "Trending Themes in Cybersecurity",
+                "tracxnId": "59wlsc9V44rskTfK_gnzjZgZnxZwzfvJwwcO7F4_MT8"
+            },
+            {
+                "id": "Ah4AFP5ZwemjDLDGtvp3x_4QOIWWJnikKSDYfKkZZ_0",
+                "name": "Singapore Tech",
+                "tracxnId": "Ah4AFP5ZwemjDLDGtvp3x_4QOIWWJnikKSDYfKkZZ_0"
+            }
+        ],
+        "description": {
+            "long": "Cloud based cyber threat intelligence platform providing dark web threat monitoring and investigation solutions. Provides investigators with a comprehensive digital forensics tool called Darkweb Tracker, a deep and dark web intelligence platform. It enables users to search for threat intelligence, follow data relationships, and see the investigation displayed on a user-friendly canvas.",
+            "short": "Cloud based cyber threat intelligence platform providing dark web threat monitoring and investigation solutions"
+        },
+        "emailList": [
+            {
+                "email": "sales@stealthmole.com"
+            }
+        ],
+        "employeeInfo": {
+            "employeeList": [
+                {
+                    "designation": "CEO",
+                    "emailInfo": {
+                        "primaryEmail": "louis@darktracer.com",
+                        "emailList": [
+                            "louis@darktracer.com",
+                            "louis.hur@stealthmole.com"
+                        ]
+                    },
+                    "id": "qzqVr3yaV-vtFHnRWjFZk4Ow9t4zbe93blAVFWPFijQ",
+                    "name": "Louis Hur",
+                    "profileLinks": {
+                        "linkedinHandle": "https://linkedin.com/in/louis-hur-87313019/#"
+                    },
+                    "shortBio": "Founder NSHC, ex-nshc.net. Anti-OSINT Univ. South Korea BE 2002",
+                    "isKeyPeople": true,
+                    "isFoundingMember": false,
+                    "tracxnId": "qzqVr3yaV-vtFHnRWjFZk4Ow9t4zbe93blAVFWPFijQ"
+                }
+            ]
+        },
+        "companyRatings": {
+            "editorRatingInfo": {
+                "rating": 4,
+                "updatedDate": {
+                    "year": 2024,
+                    "month": 4,
+                    "day": 9
+                }
+            }
+        },
+        "stageDetails": {
+            "isFunded": true,
+            "isAcquired": false,
+            "isPublic": false,
+            "isDeadpooled": false
+        },
+        "stage": "Series A",
+        "fundingInfo": {
+            "numberOfFundingRounds": 1,
+            "fundingRoundList": [
+                {
+                    "id": "I8NU0iXRJRjnrJuKE19EUWqRbuZExc9vJlQwFlvgjS0",
+                    "facilitatorList": [
+                        {
+                            "tracxnId": "-3xCvwEid1rzcSuJKNsPHinQVVmA5oyEqovIMfKPvnk",
+                            "isLead": false,
+                            "domain": "twobirds.com",
+                            "name": "Bird & Bird",
+                            "id": "531b2a76e4b0f7e1662248c5",
+                            "type": "COMPANY"
+                        }
+                    ],
+                    "amount": {
+                        "amount": 7000000,
+                        "currency": "USD"
+                    },
+                    "date": {
+                        "day": 28,
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "investorList": [
+                        {
+                            "id": "58dcc645e4b0f9109092a98f",
+                            "tracxnId": "Ji9WGccDWeIqwzAa2cW3EcBTuQMmeRg2XO9feKGavO4",
+                            "domain": "koreainvestment.com",
+                            "name": "Korea Investment Holdings",
+                            "isFirstInvestment": true,
+                            "isLeadInvestor": true,
+                            "investorType": "FUND",
+                            "type": "COMPANY"
+                        },
+                        {
+                            "id": "5746aee1e4b0274d5e5802bc",
+                            "tracxnId": "BjaAk-MnoJR7Okf-It2T3qkZk2YS2p5cPihZdjCZ0Cw",
+                            "domain": "smilegateinvestment.com",
+                            "name": "Smile Gate Investment",
+                            "isFirstInvestment": true,
+                            "isLeadInvestor": false,
+                            "investorType": "FUND",
+                            "type": "COMPANY"
+                        },
+                        {
+                            "id": "619471f4ca5d430f1e4cc720",
+                            "tracxnId": "3mFARva6gWnWNWQVCwfbXY3VJKIJpjgy6YUIkurT8Aw",
+                            "domain": "hibiscusfund.vdtrxn",
+                            "name": "Hibiscus Fund",
+                            "isFirstInvestment": true,
+                            "isLeadInvestor": false,
+                            "investorType": "FUND",
+                            "type": "COMPANY"
+                        }
+                    ],
+                    "name": "Series A",
+                    "isKeyFundingRound": false,
+                    "tracxnId": "I8NU0iXRJRjnrJuKE19EUWqRbuZExc9vJlQwFlvgjS0"
+                }
+            ],
+            "latestRoundInfo": {
+                "isKeyFundingRound": false,
+                "id": "660516bf0dab3022ed645d96",
+                "commentList": [
+                    "Hibiscus Fund (a joint venture between RHL Ventures, Penjana Kapital and KB Investment) also participated"
+                ],
+                "facilitatorList": [
+                    {
+                        "tracxnId": "-3xCvwEid1rzcSuJKNsPHinQVVmA5oyEqovIMfKPvnk",
+                        "isLead": false,
+                        "domain": "twobirds.com",
+                        "name": "Bird & Bird",
+                        "id": "531b2a76e4b0f7e1662248c5",
+                        "type": "COMPANY"
+                    }
+                ],
+                "linkList": [
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://bebeez.it/private-equity-breakfast/notizie-da-stealthmole-korea-investment-partners-hibiscus-fund-rhl-ventures-penjana-kapital-kb-investment-smilegate-investment-e-altri/?utm_source=rss&utm_medium=rss&utm_campaign=notizie-da-stealthmole-korea-investment-partners-hibiscus-fund-rhl-ventures-penjana-kapital-kb-investment-smilegate-investment-e-altri"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://technode.global/2024/03/29/singapores-stealthmole-bags-7m-in-series-a-funding-round-led-by-korea-investment-partners/"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://en.prnasia.com/releases/apac/asia-s-emerging-dark-web-intelligence-agency-stealthmole-raises-us-7-million-in-series-a-funding-round-442000.shtml"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://conventuslaw.com/press-releases/bird-bird-atmd-advised-lead-investor-korea-investment-partners-in-stealthmoles-us7-million-series-a-funding/"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://www.securityweek.com/asia-focused-dark-web-threat-intelligence-startup-stealthmole-raises-7-million/"
+                    },
+                    {
+                        "isVisibleToExternal": false,
+                        "url": "https://startuprise.org/stealthmole-secures-us7m-in-series-a-round-funding/"
+                    }
+                ],
+                "amount": {
+                    "amount": 7000000,
+                    "currency": "USD"
+                },
+                "date": {
+                    "day": 28,
+                    "month": 3,
+                    "year": 2024
+                },
+                "investorList": [
+                    {
+                        "id": "58dcc645e4b0f9109092a98f",
+                        "tracxnId": "Ji9WGccDWeIqwzAa2cW3EcBTuQMmeRg2XO9feKGavO4",
+                        "domain": "koreainvestment.com",
+                        "name": "Korea Investment Holdings",
+                        "isFirstInvestment": true,
+                        "isLeadInvestor": true,
+                        "investorType": "FUND",
+                        "type": "COMPANY"
+                    },
+                    {
+                        "id": "5746aee1e4b0274d5e5802bc",
+                        "tracxnId": "BjaAk-MnoJR7Okf-It2T3qkZk2YS2p5cPihZdjCZ0Cw",
+                        "domain": "smilegateinvestment.com",
+                        "name": "Smile Gate Investment",
+                        "isFirstInvestment": true,
+                        "isLeadInvestor": false,
+                        "investorType": "FUND",
+                        "type": "COMPANY"
+                    },
+                    {
+                        "id": "619471f4ca5d430f1e4cc720",
+                        "tracxnId": "3mFARva6gWnWNWQVCwfbXY3VJKIJpjgy6YUIkurT8Aw",
+                        "domain": "hibiscusfund.vdtrxn",
+                        "name": "Hibiscus Fund",
+                        "isFirstInvestment": true,
+                        "isLeadInvestor": false,
+                        "investorType": "FUND",
+                        "type": "COMPANY"
+                    }
+                ],
+                "name": "Series A",
+                "tracxnId": "I8NU0iXRJRjnrJuKE19EUWqRbuZExc9vJlQwFlvgjS0"
+            },
+            "investorInfo": {
+                "numberOfInstitutionalInvestors": 3
+            }
+        },
+        "investorList": [
+            {
+                "domain": "koreainvestment.com",
+                "id": "Ji9WGccDWeIqwzAa2cW3EcBTuQMmeRg2XO9feKGavO4",
+                "name": "Korea Investment Holdings",
+                "type": "COMPANY",
+                "tracxnId": "Ji9WGccDWeIqwzAa2cW3EcBTuQMmeRg2XO9feKGavO4"
+            },
+            {
+                "domain": "smilegateinvestment.com",
+                "id": "BjaAk-MnoJR7Okf-It2T3qkZk2YS2p5cPihZdjCZ0Cw",
+                "name": "Smile Gate Investment",
+                "type": "COMPANY",
+                "tracxnId": "BjaAk-MnoJR7Okf-It2T3qkZk2YS2p5cPihZdjCZ0Cw"
+            },
+            {
+                "domain": "hibiscusfund.vdtrxn",
+                "id": "3mFARva6gWnWNWQVCwfbXY3VJKIJpjgy6YUIkurT8Aw",
+                "name": "Hibiscus Fund",
+                "type": "COMPANY",
+                "tracxnId": "3mFARva6gWnWNWQVCwfbXY3VJKIJpjgy6YUIkurT8Aw"
+            }
+        ],
+        "profileLinks": {
+            "blog": "https://www.stealthmole.com/resources/blog",
+            "facebook": "https://facebook.com/stealthmoleintelligence",
+            "linkedIn": "https://linkedin.com/company/stealthmole",
+            "twitter": "https://twitter.com/stealthmole_int"
+        },
+        "websiteInfo": {
+            "httpStatus": 200,
+            "httpStatusUpdatedDate": {
+                "year": 2024,
+                "month": 8,
+                "day": 14
+            },
+            "url": "https://www.stealthmole.com/"
+        },
+        "mobileInfo": {
+            "appCount": 0
+        },
+        "newsInfo": {
+            "newsList": [
+                {
+                    "headLine": "Bird & Bird ATMD Advised Lead Investor Korea Investment Partners In StealthMole’s US$7 Million Series A Funding.",
+                    "sourceUrl": "https://conventuslaw.com/press-releases/bird-bird-atmd-advised-lead-investor-korea-investment-partners-in-stealthmoles-us7-million-series-a-funding/"
+                },
+                {
+                    "headLine": "StealthMole raises $7M Series A for its AI-powered dark web intelligence platform",
+                    "sourceUrl": "https://techcrunch.com/2024/03/27/stealthmole-raises-7m-series-a-for-its-ai-powered-dark-web-intelligence-platform/"
+                }
+            ],
+            "totalArticles": 24,
+            "latestNews": {
+                "datePublished": {
+                    "year": 2024,
+                    "month": 4,
+                    "day": 8
+                }
+            }
+        },
+        "locations": [
+            {
+                "country": {
+                    "name": "Singapore"
+                },
+                "state": {
+                    "name": "Singapore"
+                },
+                "city": {
+                    "name": "Singapore"
+                },
+                "continent": {
+                    "name": "Asia"
+                }
+            }
+        ],
+        "logos": {
+            "imageUrl": "https://s3.amazonaws.com/tracxn-data-image/logo/company/-WjBv-Zs_400x400_ed9aa01c-8727-4bd5-9a62-e46bd2408db7.jpg"
+        },
+        "companyTrackCloneInfo": {
+            "status": "DISABLED"
+        },
+        "facilitatorList": {
+            "fundingFacilitatorList": [
+                {
+                    "isLead": false,
+                    "domain": "twobirds.com",
+                    "type": "COMPANY",
+                    "name": "Bird & Bird",
+                    "id": "531b2a76e4b0f7e1662248c5",
+                    "tracxnId": "-3xCvwEid1rzcSuJKNsPHinQVVmA5oyEqovIMfKPvnk"
+                }
+            ]
+        },
+        "tracxnScore": 42.43659254427788,
+        "metrics": {
+            "value": {
+                "avgInstitutionalinvestorScore": {
+                    "percentile": 59.747747843453865
+                },
+                "totalInstituitionalinvestors": {
+                    "percentile": 74.15889389368121
+                },
+                "maxInstitutionalinvestorScore": {
+                    "percentile": 86.24617558322356
+                }
+            }
+        },
+        "specialFlagList": [
+            {
+                "name": "Tech",
+                "value": "YES"
+            },
+            {
+                "name": "Consumer",
+                "value": "NO"
+            },
+            {
+                "name": "Enterprise",
+                "value": "YES"
+            },
+            {
+                "name": "Marketplace",
+                "value": "NO"
+            },
+            {
+                "name": "SaaS",
+                "value": "YES"
+            },
+            {
+                "name": "Software",
+                "value": "YES"
+            },
+            {
+                "name": "Tech Hardware",
+                "value": "NO"
+            },
+            {
+                "name": "Social Impact",
+                "value": "NO"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "value": "NO"
+            },
+            {
+                "name": "Blockchain",
+                "value": "NO"
+            }
+        ],
+        "tracxnTeamScore": 56.50521627530888,
+        "socketReachability": {
+            "value": "REACHABLE",
+            "lastUpdatedDate": {
+                "year": 2024,
+                "month": 5,
+                "day": 21,
+                "hours": 18,
+                "minutes": 41,
+                "seconds": 47
+            }
+        },
+        "achievements": [
+            {
+                "name": "Trending Theme",
+                "category": "Market"
+            },
+            {
+                "name": "Has Marquee Institutional Investors",
+                "category": "Team"
+            }
+        ],
+        "tracxnId": "yU_vcmrgqqKlFErNeMs06-EE-Pv1TrQb0o-ApceZLNY",
+        "tracxnSizeScore": 33.80528062525459,
+        "tracxnExecutionScore": 48.82459275830907,
+        "tracxnGrowthScore": 0,
+        "sectorList": [
+            [
+                {
+                    "name": "Enterprise Infrastructure",
+                    "type": "PRACTICE AREA",
+                    "tracxnId": "hOcVKpuztUIbPJQlF7j0fGQzi8XZMDUQUTMy6omC9vE"
+                },
+                {
+                    "name": "Cybersecurity",
+                    "type": "FEED",
+                    "tracxnId": "rgJDhL5-vaoMdE9DoeiyMyeK6u8q2_iTE6YB_xDYlBg"
+                },
+                {
+                    "name": "Threat Intelligence",
+                    "type": "BUSINESS MODEL",
+                    "tracxnId": "BYWm80ijthFo_wjjaD4QE1BGoRVgQqqMlV7Liq_QWpU"
+                },
+                {
+                    "name": "Dark Net Monitoring",
+                    "type": "BUSINESS MODEL",
+                    "tracxnId": "mbDzTqSyiMCihavfqDEKmkWgyEoOiOyvQP_PRxoE8os"
+                }
+            ]
+        ]
+    }
+]

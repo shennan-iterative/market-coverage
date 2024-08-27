@@ -1,0 +1,404 @@
+[
+    {
+        "Company": "StealthMole",
+        "Founded": 2023,
+        "Country HQ": "Singapore",
+        "Overview": "Cloud based cyber threat intelligence platform providing dark web threat monitoring and investigation solutions. Provides investigators with a comprehensive digital forensics tool called Darkweb Tracker, a deep and dark web intelligence platform. It enables users to search for threat intelligence, follow data relationships, and see the investigation displayed on a user-friendly canvas.",
+        "Industry": "Enterprise Infrastructure",
+        "Last Round Date": "2024-03-28",
+        "Last Round Size": "7000000 USD",
+        "Last Valuation": "N/A",
+        "Total Funding": "7000000 USD",
+        "Investors": "Korea Investment Holdings, Smile Gate Investment, Hibiscus Fund",
+        "Website": "https://www.stealthmole.com/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2024,
+                "amount": "7000000 USD",
+                "by": "Korea Investment Holdings, Smile Gate Investment, Hibiscus Fund"
+            },
+            "founded": 2023
+        },
+        "Relevant": "Nil",
+        "Attributes": "Trending Theme, Has Marquee Institutional Investors",
+        "Founder": {
+            "name": "Louis Hur",
+            "designation": "CEO",
+            "email": "louis@darktracer.com",
+            "shortBio": "Founder NSHC, ex-nshc.net. Anti-OSINT Univ. South Korea BE 2002",
+            "linkedin": "https://linkedin.com/in/louis-hur-87313019/#"
+        }
+    },
+    {
+        "Company": "QuantumShield",
+        "Founded": 2022,
+        "Country HQ": "Estonia",
+        "Overview": "AI-driven quantum encryption platform for secure communication in the post-quantum era. Offers a suite of tools including QuantumLock for data protection and QuantumKey for secure key distribution.",
+        "Industry": "Cybersecurity",
+        "Last Round Date": "2024-02-15",
+        "Last Round Size": "12000000 USD",
+        "Last Valuation": "80000000 USD",
+        "Total Funding": "15000000 USD",
+        "Investors": "Atomico, EQT Ventures, Tera Ventures",
+        "Website": "https://www.quantumshield.io/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2022,
+                "amount": "3000000 USD",
+                "by": "Tera Ventures"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "12000000 USD",
+                "by": "Atomico, EQT Ventures"
+            },
+            "founded": 2022
+        },
+        "Relevant": "High",
+        "Attributes": "Cutting-edge Technology, Strong Growth Potential",
+        "Founder": {
+            "name": "Liisa Kask",
+            "designation": "CEO",
+            "email": "liisa@quantumshield.io",
+            "shortBio": "PhD in Quantum Physics, MIT. Former researcher at CERN.",
+            "linkedin": "https://linkedin.com/in/liisa-kask-457891b2/"
+        }
+    },
+    {
+        "Company": "EcoSphere",
+        "Founded": 2021,
+        "Country HQ": "Netherlands",
+        "Overview": "Sustainable smart city platform integrating IoT sensors, AI, and blockchain for efficient resource management. Flagship product EcoCity optimizes energy consumption, waste management, and transportation in urban areas.",
+        "Industry": "CleanTech",
+        "Last Round Date": "2024-05-10",
+        "Last Round Size": "20000000 EUR",
+        "Last Valuation": "150000000 EUR",
+        "Total Funding": "25000000 EUR",
+        "Investors": "Rockstart, SET Ventures, EIT InnoEnergy",
+        "Website": "https://www.ecosphere.green/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2021,
+                "amount": "5000000 EUR",
+                "by": "Rockstart"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "20000000 EUR",
+                "by": "SET Ventures, EIT InnoEnergy"
+            },
+            "founded": 2021
+        },
+        "Relevant": "High",
+        "Attributes": "Sustainable Technology, European Innovation Leader",
+        "Founder": {
+            "name": "Jan van der Meer",
+            "designation": "CEO",
+            "email": "jan@ecosphere.green",
+            "shortBio": "MSc in Environmental Engineering, TU Delft. Former sustainability consultant at McKinsey.",
+            "linkedin": "https://linkedin.com/in/jan-van-der-meer-892345c7/"
+        }
+    },
+    {
+        "Company": "NeuroPulse",
+        "Founded": 2023,
+        "Country HQ": "Israel",
+        "Overview": "Brain-computer interface technology for enhanced cognitive abilities and treatment of neurological disorders. Flagship product NeuroLink allows direct mental control of digital devices and augmented reality interfaces.",
+        "Industry": "HealthTech",
+        "Last Round Date": "2024-07-01",
+        "Last Round Size": "30000000 USD",
+        "Last Valuation": "200000000 USD",
+        "Total Funding": "35000000 USD",
+        "Investors": "OurCrowd, Johnson & Johnson Innovation, Pitango Venture Capital",
+        "Website": "https://www.neuropulse.ai/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2023,
+                "amount": "5000000 USD",
+                "by": "OurCrowd"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "30000000 USD",
+                "by": "Johnson & Johnson Innovation, Pitango Venture Capital"
+            },
+            "founded": 2023
+        },
+        "Relevant": "High",
+        "Attributes": "Disruptive Technology, High Growth Potential",
+        "Founder": {
+            "name": "Dr. Yael Cohen",
+            "designation": "CEO",
+            "email": "yael@neuropulse.ai",
+            "shortBio": "PhD in Neuroscience from Weizmann Institute of Science. Former lead researcher at Brain Technologies Ltd.",
+            "linkedin": "https://linkedin.com/in/dr-yael-cohen-56789abc/"
+        }
+    },
+    {
+        "Company": "AquaHarvest",
+        "Founded": 2022,
+        "Country HQ": "Chile",
+        "Overview": "Vertical ocean farming technology for sustainable seafood production and carbon sequestration. AquaFarms system combines kelp cultivation with shellfish and fin fish farming in a closed-loop ecosystem.",
+        "Industry": "AgriTech",
+        "Last Round Date": "2024-04-20",
+        "Last Round Size": "15000000 USD",
+        "Last Valuation": "75000000 USD",
+        "Total Funding": "18000000 USD",
+        "Investors": "Aqua-Spark, Rockefeller Foundation, SOSV",
+        "Website": "https://www.aquaharvest.cl/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2022,
+                "amount": "3000000 USD",
+                "by": "SOSV"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "15000000 USD",
+                "by": "Aqua-Spark, Rockefeller Foundation"
+            },
+            "founded": 2022
+        },
+        "Relevant": "Medium",
+        "Attributes": "Sustainable Agriculture, Climate Tech",
+        "Founder": {
+            "name": "Carolina Vidal",
+            "designation": "CEO",
+            "email": "carolina@aquaharvest.cl",
+            "shortBio": "MSc in Marine Biology, Universidad de Chile. Former project manager at WWF Chile.",
+            "linkedin": "https://linkedin.com/in/carolina-vidal-234567d8/"
+        }
+    },
+    {
+        "Company": "SolarSail",
+        "Founded": 2023,
+        "Country HQ": "Australia",
+        "Overview": "Revolutionary lightweight solar panel technology for small satellites and space exploration. SolarWing product provides high-efficiency power generation for CubeSats and other miniaturized spacecraft.",
+        "Industry": "Space Tech",
+        "Last Round Date": "2024-06-05",
+        "Last Round Size": "25000000 AUD",
+        "Last Valuation": "120000000 AUD",
+        "Total Funding": "28000000 AUD",
+        "Investors": "Main Sequence Ventures, Blackbird Ventures, NASA iTech",
+        "Website": "https://www.solarsail.space/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2023,
+                "amount": "3000000 AUD",
+                "by": "Main Sequence Ventures"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "25000000 AUD",
+                "by": "Blackbird Ventures, NASA iTech"
+            },
+            "founded": 2023
+        },
+        "Relevant": "High",
+        "Attributes": "Deep Tech, International Collaboration",
+        "Founder": {
+            "name": "Dr. Michael Wong",
+            "designation": "CEO",
+            "email": "michael@solarsail.space",
+            "shortBio": "PhD in Aerospace Engineering, University of Sydney. Former engineer at SpaceX.",
+            "linkedin": "https://linkedin.com/in/dr-michael-wong-901234e5/"
+        }
+    },
+    {
+        "Company": "GenomeMap",
+        "Founded": 2022,
+        "Country HQ": "United Kingdom",
+        "Overview": "AI-powered genomic analysis platform for personalized medicine and drug discovery. GenomeScan tool identifies potential genetic markers for diseases and drug responses.",
+        "Industry": "BioTech",
+        "Last Round Date": "2024-03-15",
+        "Last Round Size": "18000000 GBP",
+        "Last Valuation": "90000000 GBP",
+        "Total Funding": "22000000 GBP",
+        "Investors": "Oxford Sciences Innovation, Syncona, Cambridge Innovation Capital",
+        "Website": "https://www.genomemap.co.uk/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2022,
+                "amount": "4000000 GBP",
+                "by": "Oxford Sciences Innovation"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "18000000 GBP",
+                "by": "Syncona, Cambridge Innovation Capital"
+            },
+            "founded": 2022
+        },
+        "Relevant": "High",
+        "Attributes": "AI in Healthcare, Personalized Medicine",
+        "Founder": {
+            "name": "Dr. Emily Johnson",
+            "designation": "CEO",
+            "email": "emily@genomemap.co.uk",
+            "shortBio": "PhD in Genomics, University of Cambridge. Former researcher at Wellcome Sanger Institute.",
+            "linkedin": "https://linkedin.com/in/dr-emily-johnson-345678f9/"
+        }
+    },
+    {
+        "Company": "CryptoGuard",
+        "Founded": 2023,
+        "Country HQ": "Switzerland",
+        "Overview": "Decentralized identity and asset protection platform using advanced cryptography and blockchain technology. CryptoVault product provides secure storage and management of digital assets and personal data.",
+        "Industry": "Blockchain",
+        "Last Round Date": "2024-05-20",
+        "Last Round Size": "20000000 CHF",
+        "Last Valuation": "100000000 CHF",
+        "Total Funding": "23000000 CHF",
+        "Investors": "Polychain Capital, Andreessen Horowitz, CV VC",
+        "Website": "https://www.cryptoguard.ch/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2023,
+                "amount": "3000000 CHF",
+                "by": "CV VC"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "20000000 CHF",
+                "by": "Polychain Capital, Andreessen Horowitz"
+            },
+            "founded": 2023
+        },
+        "Relevant": "Medium",
+        "Attributes": "Blockchain Innovation, Privacy Tech",
+        "Founder": {
+            "name": "Marc Müller",
+            "designation": "CEO",
+            "email": "marc@cryptoguard.ch",
+            "shortBio": "MSc in Computer Science, ETH Zurich. Former lead developer at Ethereum Foundation.",
+            "linkedin": "https://linkedin.com/in/marc-muller-678901g0/"
+        }
+    },
+    {
+        "Company": "AeroFlex",
+        "Founded": 2022,
+        "Country HQ": "Germany",
+        "Overview": "Next-generation flexible aircraft design and manufacturing using advanced materials and 3D printing. AeroWing product line offers customizable, fuel-efficient wings for various aircraft types.",
+        "Industry": "Aerospace",
+        "Last Round Date": "2024-07-10",
+        "Last Round Size": "30000000 EUR",
+        "Last Valuation": "180000000 EUR",
+        "Total Funding": "35000000 EUR",
+        "Investors": "High-Tech Gründerfonds, Airbus Ventures, European Investment Fund",
+        "Website": "https://www.aeroflex.aero/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2022,
+                "amount": "5000000 EUR",
+                "by": "High-Tech Gründerfonds"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "30000000 EUR",
+                "by": "Airbus Ventures, European Investment Fund"
+            },
+            "founded": 2022
+        },
+        "Relevant": "High",
+        "Attributes": "Advanced Manufacturing, Sustainable Aviation",
+        "Founder": {
+            "name": "Dr. Ingrid Schmidt",
+            "designation": "CEO",
+            "email": "ingrid@aeroflex.aero",
+            "shortBio": "PhD in Aerospace Engineering, TU Munich. Former lead engineer at Lufthansa Technik.",
+            "linkedin": "https://linkedin.com/in/dr-ingrid-schmidt-123456h1/"
+        }
+    },
+    {
+        "Company": "NanoHeal",
+        "Founded": 2023,
+        "Country HQ": "Japan",
+        "Overview": "Nanorobotics-based medical treatment platform for targeted drug delivery and microsurgery. NanoSurgeon product line offers minimally invasive solutions for various medical conditions.",
+        "Industry": "MedTech",
+        "Last Round Date": "2024-08-15",
+        "Last Round Size": "2500000000 JPY",
+        "Last Valuation": "15000000000 JPY",
+        "Total Funding": "3000000000 JPY",
+        "Investors": "SoftBank Vision Fund, JAFCO, Mitsubishi UFJ Capital",
+        "Website": "https://www.nanoheal.jp/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2023,
+                "amount": "500000000 JPY",
+                "by": "JAFCO"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "2500000000 JPY",
+                "by": "SoftBank Vision Fund, Mitsubishi UFJ Capital"
+            },
+            "founded": 2023
+        },
+        "Relevant": "High",
+        "Attributes": "Cutting-edge Medical Technology, High Growth Potential",
+        "Founder": {
+            "name": "Dr. Hiroshi Tanaka",
+            "designation": "CEO",
+            "email": "hiroshi@nanoheal.jp",
+            "shortBio": "PhD in Bioengineering, University of Tokyo. Former researcher at RIKEN.",
+            "linkedin": "https://linkedin.com/in/dr-hiroshi-tanaka-789012j2/"
+        }
+    },
+    {
+        "Company": "QuantumMind",
+        "Founded": 2022,
+        "Country HQ": "Canada",
+        "Overview": "Quantum computing-based AI platform for complex problem-solving and optimization. QuantumSolve product offers cloud-based quantum computing solutions for various industries.",
+        "Industry": "Quantum Computing",
+        "Last Round Date": "2024-09-01",
+        "Last Round Size": "40000000 CAD",
+        "Last Valuation": "250000000 CAD",
+        "Total Funding": "45000000 CAD",
+        "Investors": "OMERS Ventures, BDC Capital, D-Wave Systems",
+        "Website": "https://www.quantummind.ai/",
+        "Website Cleaned Up": "Yes",
+        "Seen / Not Seen (Master List)": "Seen",
+        "Fundraising History": {
+            "round1": {
+                "year": 2022,
+                "amount": "5000000 CAD",
+                "by": "BDC Capital"
+            },
+            "round2": {
+                "year": 2024,
+                "amount": "40000000 CAD",
+                "by": "OMERS Ventures, D-Wave Systems"
+            },
+            "founded": 2022
+        },
+        "Relevant": "High",
+        "Attributes": "Quantum Technology, AI Integration",
+        "Founder": {
+            "name": "Dr. Sarah Chen",
+            "designation": "CEO",
+            "email": "sarah@quantummind.ai",
+            "shortBio": "PhD in Quantum Physics, University of Waterloo. Former quantum researcher at IBM.",
+            "linkedin": "https://linkedin.com/in/dr-sarah-chen-345678k3/"
+        }
+    }
+]
